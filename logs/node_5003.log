@@ -1,0 +1,101 @@
+[Node3] Initialized new blockchain.json with genesis block
+[Node3] Loaded blockchain with 1 blocks
+[Node3] Listening on port 5003
+[Node3] Started node on port 5003
+[Node3] Public key: -----BEGIN PUBLIC KEY-----
+MFYwEAYHKoZIzj0CAQYFK4E...
+[Node3] Initial balance: 100
+[Node3] Status - Balance: 100, Mempool: 0, Chain: 1 blocks
+[Node3] Status - Balance: 100, Mempool: 0, Chain: 1 blocks
+[Node3] Status - Balance: 100, Mempool: 0, Chain: 1 blocks
+[Node3] Status - Balance: 100, Mempool: 0, Chain: 1 blocks
+[Node3] Added transaction 9ee0b2e2 to mempool
+[Node3] Added transaction 3a491150 to mempool
+[Node3] Accepted block #1
+[Node3] Added transaction 11c7f7f9 to mempool
+[Node3] Added transaction a55893e9 to mempool
+[Node3] Added transaction 9453daea to mempool
+[Node3] Status - Balance: 90, Mempool: 3, Chain: 2 blocks
+[Node3] Added transaction 7f7b74ea to mempool
+[Node3] Added transaction 25fedfcc to mempool
+[Node3] Added transaction 90ce2004 to mempool
+[Node3] Accepted block #2
+[Node3] Added transaction 057d10a1 to mempool
+[Node3] Added transaction 47095676 to mempool
+[Node3] Added transaction 0a495793 to mempool
+[Node3] Added transaction 4a2f751f to mempool
+[Node3] Accepted block #3[Node3] Added transaction bba24dcc to mempool
+
+[Node3] Added transaction 6ae8b80b to mempool
+[Node3] Added transaction 8e844c20 to mempool
+[Node3] Added transaction 9b48b82c to mempool
+[Node3] Status - Balance: 58, Mempool: 10, Chain: 4 blocks
+[Node3] Added transaction 29e3b4c1 to mempool
+[Node3] Added transaction 9c0e378e to mempool
+[Node3] Added transaction cd1898f1 to mempool
+[Node3] Accepted block #4
+[Node3] Added transaction d4ff1257 to mempool
+[Node3] Added transaction 4149f744 to mempool
+[Node3] Accepted block #5
+[Node3] Added transaction 3cb73caf to mempool
+[Node3] Added transaction e17468dc to mempool
+[Node3] Status - Balance: 105, Mempool: 13, Chain: 7 blocks
+[Node3] Accepted block #6
+[Node3] Accepted block #7
+[Node3] Added transaction 9cc9318d to mempool
+[Node3] Accepted block #8
+[Node3] Accepted block #9
+[Node3] Accepted block #10
+[Node3] Sync with peer port:5001 was reset by peer, will try to sync again in next cycle
+[Node3] Status - Balance: 82, Mempool: 4, Chain: 11 blocks
+[Node3] Sync with peer port:5001 was reset by peer, will try to sync again in next cycle
+[Node3] Accepted block #11
+[Node3] Accepted block #12
+[Node3] Status - Balance: 79, Mempool: 0, Chain: 13 blocks
+[Node3] Added transaction 33dbb0e4 to mempool
+[Node3] Added transaction 20d512f2 to mempool
+[Node3] Added transaction 5d910fc4 to mempool
+[Node3] Added transaction 6b537fd8 to mempool
+[Node3] Added transaction 2774830b to mempool
+[Node3] Added transaction 97ff310e to mempool
+[Node3] Added transaction 7a2c486e to mempool
+[Node3] Added transaction 5ae4fb2e to mempool
+[Node3] Added transaction 79128c8e to mempool
+[Node3] Added transaction ab7e8d84 to mempool
+[Node3] Accepted block #13
+[Node3] Sync with peer port:5001 was reset by peer, will try to sync again in next cycle
+[Node3] Added transaction 21d581a2 to mempool
+[Node3] Replaced local chain with longer received chain (15 blocks)
+[Node3] Added transaction 72e62838 to mempool
+[Node3] Added transaction 162ba4b4 to mempool
+[Node3] Status - Balance: 55, Mempool: 10, Chain: 15 blocks
+[Node3] Added transaction cb7bd931 to mempool
+[Node3] Added transaction 6da837a4 to mempool
+[Node3] Added transaction 6593462f to mempool
+[Node3] Added transaction 900412bb to mempool
+[Node3] Replaced local chain with longer received chain (16 blocks)
+[Node3] Added transaction a4d42d03 to mempool
+[Node3] Added transaction 895ba587 to mempool
+[Node3] Replaced local chain with longer received chain (17 blocks)
+[Node3] Added transaction 90825df5 to mempool
+[Node3] Status - Balance: 55, Mempool: 14, Chain: 17 blocks
+[Node3] Added transaction f778d4e7 to mempool
+[Node3] Added transaction 44a03c9a to mempool
+[Node3] Added transaction 1171255b to mempool
+[Node3] Status - Balance: 55, Mempool: 17, Chain: 17 blocks
+[Node3] Accepted block #17
+[Node3] Accepted block #18
+[Node3] Replaced local chain with longer received chain (20 blocks)
+[Node3] Status - Balance: 84, Mempool: 11, Chain: 20 blocks
+[Node3] Accepted block #20
+[Node3] Accepted block #21
+[Node3] Accepted block #22
+[Node3] Status - Balance: 61, Mempool: 5, Chain: 23 blocks
+[Node3] Status - Balance: 61, Mempool: 5, Chain: 23 blocks
+[Node3] Accepted block #23
+[Node3] Accepted block #24
+[Node3] Accepted block #25
+[Node3] Status - Balance: 58, Mempool: 0, Chain: 26 blocks
+[Node3] Status - Balance: 58, Mempool: 0, Chain: 26 blocks
+[Node3] Status - Balance: 58, Mempool: 0, Chain: 26 blocks
+[Node3] Status - Balance: 58, Mempool: 0, Chain: 26 blocks

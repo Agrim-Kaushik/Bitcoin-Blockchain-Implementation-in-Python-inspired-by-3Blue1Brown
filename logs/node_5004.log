@@ -1,0 +1,107 @@
+[Node4] Initialized new blockchain.json with genesis block
+[Node4] Loaded blockchain with 1 blocks
+[Node4] Listening on port 5004
+[Node4] Started node on port 5004
+[Node4] Public key: -----BEGIN PUBLIC KEY-----
+MFYwEAYHKoZIzj0CAQYFK4E...
+[Node4] Initial balance: 100
+[Node4] Status - Balance: 100, Mempool: 0, Chain: 1 blocks
+[Node4] Status - Balance: 100, Mempool: 0, Chain: 1 blocks
+[Node4] Status - Balance: 100, Mempool: 0, Chain: 1 blocks
+[Node4] Status - Balance: 100, Mempool: 0, Chain: 1 blocks
+[Node4] Added transaction 9ee0b2e2 to mempool
+[Node4] Added transaction 3a491150 to mempool
+[Node4] Accepted block #1
+[Node4] Added transaction 11c7f7f9 to mempool
+[Node4] Status - Balance: 101, Mempool: 1, Chain: 2 blocks
+[Node4] Added transaction a55893e9 to mempool
+[Node4] Added transaction 057d10a1 to mempool
+[Node4] Added transaction 9453daea to mempool
+[Node4] Added transaction 0a495793 to mempool
+[Node4] Added transaction 7f7b74ea to mempool
+[Node4] Added transaction 25fedfcc to mempool
+[Node4] Added transaction 90ce2004 to mempool
+[Node4] Accepted block #2
+[Node4] Added transaction 47095676 to mempool
+[Node4] Added transaction cd1898f1 to mempool
+[Node4] Status - Balance: 86, Mempool: 8, Chain: 4 blocks
+[Node4] Accepted block #3
+[Node4] Added transaction bba24dcc to mempool
+[Node4] Added transaction 4a2f751f to mempool
+[Node4] Added transaction 6ae8b80b to mempool
+[Node4] Added transaction d4ff1257 to mempool
+[Node4] Added transaction 8e844c20 to mempool
+[Node4] Sync with peer port:5002 was reset by peer, will try to sync again in next cycle
+[Node4] Added transaction 9b48b82c to mempool
+[Node4] Added transaction 29e3b4c1 to mempool
+[Node4] Added transaction 9c0e378e to mempool
+[Node4] Accepted block #4[Node4] Added transaction 3cb73caf to mempool
+
+[Node4] Status - Balance: 65, Mempool: 13, Chain: 7 blocks
+[Node4] Added transaction 4149f744 to mempool
+[Node4] Accepted block #5
+[Node4] Added transaction 9cc9318d to mempool
+[Node4] Added transaction e17468dc to mempool
+[Node4] Accepted block #6
+[Node4] Added transaction 9c0e378e to mempool
+[Node4] Sync with peer port:5001 was reset by peer, will try to sync again in next cycle
+[Node4] Accepted block #7
+[Node4] Accepted block #8[Node4] Accepted block #9
+[Node4] Accepted block #10
+
+[Node4] Status - Balance: 105, Mempool: 5, Chain: 11 blocks
+[Node4] Accepted block #11
+[Node4] Sync with peer port:5001 was reset by peer, will try to sync again in next cycle
+[Node4] Replaced local chain with longer received chain (13 blocks)
+[Node4] Status - Balance: 91, Mempool: 0, Chain: 13 blocks
+[Node4] Added transaction 33dbb0e4 to mempool
+[Node4] Added transaction 20d512f2 to mempool
+[Node4] Added transaction 5d910fc4 to mempool
+[Node4] Added transaction 6b537fd8 to mempool
+[Node4] Added transaction 2774830b to mempool
+[Node4] Added transaction 97ff310e to mempool
+[Node4] Added transaction 7a2c486e to mempool
+[Node4] Added transaction 5ae4fb2e to mempool
+[Node4] Added transaction 79128c8e to mempool
+[Node4] Added transaction ab7e8d84 to mempool
+[Node4] Accepted block #13
+[Node4] Added transaction 21d581a2 to mempool
+[Node4] Replaced local chain with longer received chain (15 blocks)
+[Node4] Added transaction 72e62838 to mempool
+[Node4] Added transaction 162ba4b4 to mempool
+[Node4] Status - Balance: 92, Mempool: 10, Chain: 15 blocks
+[Node4] Added transaction cb7bd931 to mempool
+[Node4] Added transaction 6da837a4 to mempool
+[Node4] Added transaction 6593462f to mempool
+[Node4] Added transaction 895ba587 to mempool
+[Node4] Added transaction 900412bb to mempool
+[Node4] Added transaction a4d42d03 to mempool
+[Node4] Transaction 895ba587 rejected: insufficient balance (0 < 12)
+[Node4] Insufficient balance: 0 < 6
+[Node4] Status - Balance: 56, Mempool: 16, Chain: 17 blocks
+[Node4] Transaction 895ba587 rejected: insufficient balance (0 < 12)
+[Node4] Accepted block #15
+[Node4] Accepted block #16
+[Node4] Added transaction 90825df5 to mempool
+[Node4] Added transaction f778d4e7 to mempool
+[Node4] Added transaction 44a03c9a to mempool
+[Node4] Added transaction 1171255b to mempool
+[Node4] Status - Balance: 56, Mempool: 16, Chain: 17 blocks
+[Node4] Accepted block #17
+[Node4] Accepted block #18
+[Node4] Accepted block #19
+[Node4] Status - Balance: 72, Mempool: 10, Chain: 20 blocks
+[Node4] Accepted block #20
+[Node4] Accepted block #21
+[Node4] Replaced local chain with longer received chain (23 blocks)
+[Node4] Status - Balance: 88, Mempool: 4, Chain: 23 blocks
+[Node4] Status - Balance: 88, Mempool: 4, Chain: 23 blocks
+[Node4] Accepted block #23
+[Node4] Accepted block #24
+[Node4] Sync with peer port:5001 was reset by peer, will try to sync again in next cycle
+[Node4] Sync with peer port:5001 was reset by peer, will try to sync again in next cycle
+[Node4] Replaced local chain with longer received chain (26 blocks)
+[Node4] Status - Balance: 88, Mempool: 0, Chain: 26 blocks
+[Node4] Status - Balance: 88, Mempool: 0, Chain: 26 blocks
+[Node4] Status - Balance: 88, Mempool: 0, Chain: 26 blocks
+[Node4] Status - Balance: 88, Mempool: 0, Chain: 26 blocks
