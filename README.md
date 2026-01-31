@@ -281,9 +281,9 @@ grep -A 10 "PUBLIC_KEY_START" miner_node_5001/.env
 }
 ```
 
-### Scenario 3: Concurrent Transactions - see tx1.json
+### Scenario 2: Concurrent Transactions - see tx1.json
 
-### Scenario 2: Sequential Transfers - see tx2.json
+### Scenario 3: Sequential Transfers - see tx2.json
 
 ---
 
